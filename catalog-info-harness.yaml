@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Harness Deployment
+  name: Harness-Deployment
   description: Artist Lookup
   annotations:
     harnessci/project-slug: github/SarvJ1/harness
