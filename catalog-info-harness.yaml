@@ -4,7 +4,7 @@ metadata:
   name: harness-deployment
   description: Artist Lookup
   annotations:
-    harnessci/project-slug: github/sarthakasast
+    harnessci/project-slug: github/SarvJ1
     accountIdentifier: dh-iBL35SqqpuqJF0yDjpQ
     orgIdentifier: default
     projectIdentifier: CIQuickstart
