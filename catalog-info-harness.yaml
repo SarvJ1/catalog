@@ -5,9 +5,9 @@ metadata:
   description: Artist Lookup
   annotations:
     harnessci/project-slug: github/sarthakasast
-    accountIdentifier: mKX3ztC4To6_ftF8vjOCNQ
+    accountIdentifier: dh-iBL35SqqpuqJF0yDjpQ
     orgIdentifier: default
-    projectIdentifier: CI_Quickstart
+    projectIdentifier: CIQuickstart
   tags:
     - java
     - data
