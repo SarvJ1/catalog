@@ -5,9 +5,9 @@ metadata:
   description: Artist Lookup
   annotations:
     harnessci/project-slug: github/SarvJ1/harness
-    accountIdentifier: dh-iBL35SqqpuqJF0yDjpQ
+    accountIdentifier: mKX3ztC4To6_ftF8vjOCNQ
     orgIdentifier: default
-    projectIdentifier: CIQuickstart
+    projectIdentifier: CI_Quickstart
   tags:
     - java
     - data
