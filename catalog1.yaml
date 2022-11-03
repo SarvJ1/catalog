@@ -8,9 +8,7 @@ metadata:
     accountIdentifier: vpCkHKsDSxK9_KYfjCTMKA
     orgIdentifier: QE_Team
     projectIdentifier: Quality_Assurence
-    harness-ci-cd/pipelines:
-      - p1
-      - p2
+    harness-ci-cd/pipelines: p1,p2
   tags:
     - java
     - data
