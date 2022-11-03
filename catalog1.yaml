@@ -4,7 +4,6 @@ metadata:
   name: harness-qa-deployment-pipe
   description: QA details
   annotations:
-    harnessci/project-slug: github/SarvJ1
     harness.io/cicd-accountIdentifier: vpCkHKsDSxK9_KYfjCTMKA
     harness.io/cicd-orgIdentifier: QE_Team
     harness.io/cicd-projectIdentifier: Quality_Assurence
