@@ -8,7 +8,7 @@ metadata:
     harness.io/cicd-orgIdentifier: QE_Team
     harness.io/cicd-projectIdentifier: Quality_Assurence
     harness.io/ci-pipelineIdentifier: p1,p2
-    harness.io/cd-serviceId: delagte,automationrun
+    harness.io/cd-serviceId: delagte
   tags:
     - java
     - data
